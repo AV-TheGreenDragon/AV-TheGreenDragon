@@ -322,7 +322,7 @@ p {
 
 /* Mediaqueries */
 
-@media (max-width: 440px) {
+@media (max-width: 440px) and (max-height: 956px) {
     body {
         width: 100%;
         flex-wrap: wrap;
