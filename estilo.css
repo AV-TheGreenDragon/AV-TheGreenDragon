@@ -343,11 +343,11 @@ p {
         width: 100%;
         flex-wrap: wrap;
     }
-    main class="video" {
+    video {
         width: 100%;
         flex-wrap: wrap;
     }
-    main class=".video-box" {
+    .imagenes {
         width: 100%;
         flex-wrap: wrap;
     }
