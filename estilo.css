@@ -323,7 +323,7 @@ p {
 /* Mediaqueries */
 
 @media (max-width: 768px) {
-    .Trabajos {
-        grid-template-columns: repeat(1, 1fr);
+    body {
+        width: 100%;
     }
 }
