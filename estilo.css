@@ -319,3 +319,11 @@ p {
     margin-bottom: 50px;
     text-align: justify;
 }
+
+/* Mediaqueries */
+
+@media (max-width: 768px) {
+    .Trabajos {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
