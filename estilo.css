@@ -339,4 +339,8 @@ p {
         width: 100%;
         flex-wrap: wrap;
     }
+    main {
+        width: 100%;
+        flex-wrap: wrap;
+    }
 }
