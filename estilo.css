@@ -343,4 +343,8 @@ p {
         width: 100%;
         flex-wrap: wrap;
     }
+    main class="video" {
+        width: 100%;
+        flex-wrap: wrap;
+    }
 }
