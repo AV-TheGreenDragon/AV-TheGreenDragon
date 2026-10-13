@@ -354,4 +354,14 @@ p {
         flex-wrap: wrap;
         grid-template-columns: 1fr;
     }
+    .video-reel {
+        width: 100%;
+        flex-wrap: wrap;
+        grid-template-columns: 1fr;
+    }
+    .Trabajos {
+        width: 100%;
+        flex-wrap: wrap;
+        grid-template-columns: 1fr;
+    }
 }
