@@ -322,7 +322,7 @@ p {
 
 /* Mediaqueries */
 
-@media (max-width: 768px) {
+@media (max-width: 440px) {
     body {
         width: 100%;
     }
