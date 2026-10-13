@@ -334,6 +334,7 @@ p {
     aside {
         width: 100%;
         flex-wrap: wrap;
+        order: -1;
     }
     div {
         width: 100%;
