@@ -336,20 +336,22 @@ p {
         flex-wrap: wrap;
         order: -1;
     }
-    div {
+    .container {
         width: 100%;
         flex-wrap: wrap;
+    }
+    .video {
+        width: 100%;
+        flex-wrap: wrap;
+        grid-template-columns: 1fr;
     }
     main {
-        width: 100%;
-        flex-wrap: wrap;
-    }
-    video {
         width: 100%;
         flex-wrap: wrap;
     }
     .imagenes {
         width: 100%;
         flex-wrap: wrap;
+        grid-template-columns: 1fr;
     }
 }
