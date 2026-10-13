@@ -329,4 +329,16 @@ p {
     header {
         width: 100%;
     }
+    head {
+        width: 100%;
+    }
+    aside {
+        width: 100%;
+    }
+    div {
+        width: 100%;
+    }
+    html {
+        width: 100%;
+    }
 }
