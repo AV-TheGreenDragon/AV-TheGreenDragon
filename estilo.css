@@ -405,10 +405,13 @@ p {
     .Trabajos {
         padding: 10px;
     }
-    .video-box-storyboard,
-    .video-box-motion-graphics {
-        padding: 10px;
-    }
+    .video-box-storyboard iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border: 0;
+    display: block;
+}
 
     /* TEXTOS */
     h2 { font-size: 30px; }
