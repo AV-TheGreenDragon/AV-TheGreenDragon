@@ -405,6 +405,10 @@ p {
     .Trabajos {
         padding: 10px;
     }
+    .video-box-storyboard,
+    .video-box-motion-graphics {
+        padding: 10px;
+    }
 
     /* TEXTOS */
     h2 { font-size: 30px; }
