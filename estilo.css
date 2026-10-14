@@ -334,7 +334,7 @@ p {
     aside {
         width: 100%;
         flex-wrap: wrap;
-        order: -1;
+        flex: 3;
     }
     .container {
         width: 100%;
@@ -348,6 +348,7 @@ p {
     main {
         width: 100%;
         flex-wrap: wrap;
+        flex: 1;
     }
     .imagenes {
         width: 100%;
