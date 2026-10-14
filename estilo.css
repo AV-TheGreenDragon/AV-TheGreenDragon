@@ -342,33 +342,6 @@ p {
     margin-bottom: 50px;
     text-align: justify;
 }
-/* Visor de imagenes */
-.visor {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background-color: rgba(0, 0, 0, 0.9);
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-    cursor: zoom-out;
-}
-
-.visor:target {
-    display: flex;
-}
-
-.visor img {
-    max-width: 95%;
-    max-height: 95%;
-    object-fit: contain;
-    border-radius: 10px;
-}
-
-.imagenes-Trabajos a img,
-.imagen-box a img {
-    cursor: zoom-in;
-}
 
 /* Mediaqueries */
 
